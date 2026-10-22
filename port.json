@@ -4,7 +4,7 @@
   "name": "Starship",
   "slug": "starship",
   "group": "CLI & TUI",
-  "emoji": "🌟",
+  "emoji": "🚀",
   "description": "Living Code for Starship. Repository-owned theme files, installation instructions and four color flavors.",
   "homepage": "https://starship.rs",
   "quick": "See installation instructions",

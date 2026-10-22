@@ -3,7 +3,7 @@
 
 <a href="https://living-code.dev"><img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/brand/favicon.svg" width="64" height="64" alt="Living Code [lc] mark"></a>
 
-# 🌟 Living Code for Starship
+# 🚀 Living Code for Starship
 
 **Calm slate. Living color.**<br>Living Code for Starship. Repository-owned theme files, installation instructions and four color flavors.
 
